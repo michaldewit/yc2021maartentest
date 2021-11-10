@@ -1,2 +1,2 @@
-Een eerste regel getypt door Michal.//
+aanpassing // michal Een eerste regel getypt door Michal.// 
 een tweede regel voor de commit ( git commit -am "tweede commit van michal")//
